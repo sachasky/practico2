@@ -1,0 +1,199 @@
+
+
+* {
+
+    margin: .1%;
+    padding: .1%;
+
+
+}
+
+body {
+
+    background: hf2ff5bc;
+    font-family: 'Lucida Sans';
+    font-size: 1em;
+   
+}
+
+h1 {
+    width: 70%;
+    font-family: 'Lucida Sans';
+    font-size:2em;
+    padding:1em;
+    margin-top:1%;
+    margin-bottom:1%;
+    text-shadow:10px 1px 3px h9590099c;
+}
+
+h2, h3 {
+
+    font-family: 'Lucida Sans';
+    font-size: 1em;
+    padding: 0em;
+    text-align: center;
+    color: blue;
+}
+h4 {
+ font-family: 'Lucida Sans';
+    font-size: 1em;
+    padding: 0em;
+    text-align: left ;
+    color: blue;
+  margin-left: 25px;
+}
+
+img{
+
+width:137%;
+height: 350px;
+margin: 0px;
+padding:1px;
+display: flex;
+bottom: 400px;
+}
+.caja27{
+
+color: #fd596;
+    width: 18%;
+    padding:1px;
+    border: 8px solid #ccc ;
+    margin: 0px ;
+    font-size:1,2em;
+    font-family: Helvetica;
+    margin-left: 25px;
+display: flex;
+position: relative;
+bottom: 0px;
+
+
+
+
+
+}
+.section{
+    position: relative;
+    justify-content: space-evenly;
+    width: 67%;
+    background-color: yellow;
+    border-left: 150px solid yellow;
+    bottom: 602px;
+    margin-left: 22%;
+    
+
+    
+       
+
+}
+
+.box1{
+    
+    color: #fd596;
+    width: 95%;
+    padding:px;
+    border:8px solid #ccc;
+    margin:10px ;
+    font-size:1,2em;
+    font-family: Helvetica;
+    margin-right: 5px;
+ 
+
+}
+
+.box2{
+    
+	 color: #fd596;
+    width:95% ;
+    padding:1px;
+    border:8px solid #ccc;
+    margin:10px ;
+    font-size:1,2em;
+    font-family: Helvetica;
+   
+
+}
+
+.box3{  
+	 color: #fd596;
+    width: 95%;
+    padding:1px;
+    border:8px solid #ccc;
+    margin:10px ;
+    font-size:1,2em;
+    font-family: Helvetica;
+    margin-right: 5px;
+    
+
+}
+
+
+.box4{  
+	color: #b4eb34;
+	width: 45%;
+	padding: 10px;
+	border: 4px ridge #399;
+	margin:20px;
+	border-radius: 15px;
+}
+
+
+.box5{  
+	color: #b4eb34;
+	width: 50%;
+	padding: 10px;
+	border: 4px ridge #399;
+	margin:20px;
+	border-radius: 15px;
+}
+.define{  
+	color: blue;
+   width: 100%;
+  text-align:center;
+justify-content: space-evenly;
+bottom: 420px;
+position: relative;
+ 
+}
+p{
+	background:#399;
+}
+
+span{
+	background: yellow;
+	font-size: 1.4em;
+}
+p span{
+	font-size: 0.9em;
+
+ }
+
+
+
+li{
+float: left;
+}
+a { 
+font-size: 20px;
+color: #fff;
+text-decoration: none;
+margin: 10px;
+display: inline-block;
+background: #3BA7E1;
+padding: 10px 20px;
+border-radius: 15px;
+
+}
+a:hover{
+box-shadow: 0px 5px 5px blue;
+}
+
+a:visited{
+background-color: lightslategrey;
+color: black;
+}
+
+a:active {
+background: #4147e8;
+box-shadow: none;
+
+}
